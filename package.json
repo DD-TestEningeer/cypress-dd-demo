@@ -1,0 +1,26 @@
+{
+  "name": "cypress-lms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "npx cypress open",
+    "test": "npx cypress run --e2e",
+    "test:headed": "npx cypress run --e2e --headed",
+    "clean:logs": "node ./scripts/clean-logs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cypress/grep": "^4.1.1",
+    "cypress": "^15.2.0",
+    "cypress-log": "^1.0.3",
+    "cypress-log-to-output": "^1.1.2",
+    "cypress-mochawesome-reporter": "^4.0.2",
+    "cypress-terminal-report": "^7.2.1",
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^5.0.0",
+    "mochawesome-report-generator": "^6.3.0"
+  }
+}
