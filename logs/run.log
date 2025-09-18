@@ -1,5 +1,6 @@
-2025-09-18T05:10:43.273Z - Visited /register
-2025-09-18T05:10:43.722Z - Entered email: DDUser
-2025-09-18T05:10:44.304Z - Entered email: test@example.com
-2025-09-18T05:10:44.747Z - Entered password
-2025-09-18T05:10:44.928Z - Clicked Register Button
+2025-09-18T05:55:38.277Z - Visited /textbox test
+2025-09-18T05:55:38.790Z - Entered fullname: DD DemoUser
+2025-09-18T05:55:39.354Z - Entered email: testDemo@gmail.com
+2025-09-18T05:55:39.852Z - Entered currentAddress
+2025-09-18T05:55:40.351Z - Entered permanentAddress
+2025-09-18T05:55:40.507Z - Clicked Submit Button
