@@ -13,7 +13,7 @@ describe('Login flow - POM + Logs + Screenshots', () => {
       .fillPassword('P@ssw0rd')
       .submit();
 
-    cy.url().should('include', '/login2.html');
+    cy.url().should('include', '/login.html');
     cy.attachExecutionLogToReport();
   });
 });
