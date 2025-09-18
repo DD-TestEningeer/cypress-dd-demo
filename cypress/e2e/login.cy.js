@@ -1,6 +1,6 @@
 const LoginPage = require('../support/pages/LoginPage');
 
-describe('Login flow - POM + Logs + Screenshots', () => {
+describe('Login Flow Test Suite', () => {
   const login = new LoginPage();
 
   before(() => {
